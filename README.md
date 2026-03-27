@@ -1,0 +1,2 @@
+# faridbot
+Bot WhatsApp 
